@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "693126516400",
+    "firebase_url": "https://bytescan-5ebd5.firebaseio.com",
+    "project_id": "bytescan-5ebd5",
+    "storage_bucket": "bytescan-5ebd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693126516400:android:a23d08da7930999fd57575",
+        "android_client_info": {
+          "package_name": "com.charyservices.bytescan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693126516400-kgivnoncv3dg5rd0td1heruvu35038eq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.charyservices.bytescan",
+            "certificate_hash": "f2b0eb5e0326d6dd774012aeabba04793c4af2ce"
+          }
+        },
+        {
+          "client_id": "693126516400-lfusddcbdlhmah4t3tm4u2gs74rg9q4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA9dbtcWqi7wc7vEKX_AYBpF4BhyEA5hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693126516400-lfusddcbdlhmah4t3tm4u2gs74rg9q4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
